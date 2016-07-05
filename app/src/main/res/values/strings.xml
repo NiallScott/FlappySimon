@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flappy Simon</string>
+    <plurals name="score_description">
+        <item quantity="one">%d mott</item>
+        <item quantity="other">%d motts</item>
+    </plurals>
+</resources>
